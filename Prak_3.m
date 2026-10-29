@@ -1,6 +1,4 @@
-% Vergleich Original und entzerrte Bilder
 %% Vergleich Original und entzerrte Bilder
-
 comparisonImages = cell(1,20);
 projectFolder = fileparts(mfilename('fullpath'));
 title('Vergleich der Original- und entzerrten Stereo-Bilder (01–05)');
